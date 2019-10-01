@@ -1,0 +1,24 @@
+{
+  "name": "PlaygroundGit",
+  "version": "1.0.0",
+  "description": "Create your `package.json`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donminhgo/Playground-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donminhgo/Playground-1/issues"
+  },
+  "homepage": "https://github.com/donminhgo/Playground-1#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.9.0",
+    "sass": "^1.22.12"
+  }
+}
